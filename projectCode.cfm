@@ -41,7 +41,7 @@
             aaSorting: [[1,'asc']],
         });
     })
-
+<!---
 $("##AccountstatementsGrid").DataTable({
     "processing": true,
     "serverSide": true,
@@ -111,5 +111,5 @@ $("##AccountstatementsGrid").DataTable({
             }
         },
     ]
-});
+});--->
 </script>
